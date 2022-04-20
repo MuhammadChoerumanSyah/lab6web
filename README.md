@@ -119,7 +119,10 @@ bagian akhir tambahkan footer.
 
 # Tampilan Full
 [img](gambarlab6/gambarlab6.15.png)
+
 ## Alhamdulillah
+## Ramahdan Kareem
+
 
 
 
